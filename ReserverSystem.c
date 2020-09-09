@@ -142,6 +142,6 @@ int main()
 			default:
 				printf("INVALID OPTION\n\n");
 		}
-	}while(c!=5);
+	}while(c!='E');
 	return 0;
 }
